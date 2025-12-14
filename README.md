@@ -1,6 +1,6 @@
 # 🛡️ AI-Based Intrusion Detection System for IoT Networks
 **Course:** Cyber Physical Systems Security (CCY4301)  
-**Developed by:** [Your Team Name/Numbers]  
+**Developed by:** [Abdelrhman Mohamed, Hashem Abdo]  
 **Status:** 🚀 Live Web Dashboard Optimized
 
 ## 📌 Project Overview
@@ -25,4 +25,5 @@ The system follows a three-layer CPS model:
 
 ## 🚀 How to Run
 1. Install dependencies: `pip install -r requirements.txt`
+
 2. Launch Dashboard: `streamlit run dashboard_ids.py`
