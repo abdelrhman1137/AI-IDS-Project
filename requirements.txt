@@ -5,3 +5,4 @@ scikit-learn
 xgboost
 joblib
 plotly
+pip install pandas numpy scapy joblib streamlit xgboost scikit-learn
