@@ -23,8 +23,9 @@ The system follows a three-layer CPS model:
 * **Edge/Gateway Layer:** The AI Engine (This Code) analyzing traffic in real-time.
 * **Application Layer:** Streamlit Cloud Dashboard for security alerts.
 
-## 🚀 How to Run
+## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 
 2. Launch Dashboard: `streamlit run dashboard_ids.py`
+
 
