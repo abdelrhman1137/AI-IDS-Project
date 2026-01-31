@@ -21,8 +21,7 @@ Performance Tracking: High-resolution timers calculate the Inference Latency for
 
 2. Live Gateway Monitoring Version (Real-Time)
 
-Implementation Details:
-This version transitions from theoretical simulation to active defense through a Live Network Receptor that interfaces directly with physical hardware (Wi-Fi or Ethernet cards).
+Implementation Details: This version transitions from theoretical simulation to active defense through a Live Network Receptor that interfaces directly with physical hardware (Wi-Fi or Ethernet cards).
 
 Live Sniffing: Utilizing the NetworkReceptor class, the system captures raw packets, aggregates them into logical flows, and performs feature extraction in real-time.
 
@@ -78,9 +77,8 @@ Execution Instructions
 
 Install Requirements: pip install -r requirements.txt
 
-Train AI: python app.py (Generates the .pkl file)
+Train AI (Generates the .pkl file): python app.py
 
 Run Simulation: streamlit run static_dashboard.py
 
 Run Live Gateway: streamlit run live_dashboard.py
-
