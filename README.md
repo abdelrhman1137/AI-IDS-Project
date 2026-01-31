@@ -4,7 +4,6 @@ Course: Cyber Physical Systems Security (CCY4301)
 
 Developed by: Abdelrhman Mohamed
 
-Status: Multi-Phase Security Operations Center (SOC) Completed
 
 Project Overview
 
@@ -84,3 +83,4 @@ Train AI: python app.py (Generates the .pkl file)
 Run Simulation: streamlit run static_dashboard.py
 
 Run Live Gateway: streamlit run live_dashboard.py
+
